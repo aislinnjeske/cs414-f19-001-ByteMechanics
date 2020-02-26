@@ -1,5 +1,4 @@
 # Client-Server Communication Formats
-## Version 1
 
 This file will specify the standard format for data exchanged and stored between systems of the software. These formats will be used in the following system interactions:
 
